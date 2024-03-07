@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "./static/css/main.325e061f.css",
+    "main.js": "./static/js/main.b3259bd8.js",
+    "static/js/453.d6e8fde9.chunk.js": "./static/js/453.d6e8fde9.chunk.js",
+    "static/media/Rectangle 650.png": "./static/media/Rectangle 650.1a8464ea234127f1c84d.png",
+    "index.html": "./index.html",
+    "main.325e061f.css.map": "./static/css/main.325e061f.css.map",
+    "main.b3259bd8.js.map": "./static/js/main.b3259bd8.js.map",
+    "453.d6e8fde9.chunk.js.map": "./static/js/453.d6e8fde9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.325e061f.css",
+    "static/js/main.b3259bd8.js"
+  ]
+}
